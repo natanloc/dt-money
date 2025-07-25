@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "category": "Venda",
+      "type": "income",
+      "price": 14000,
+      "createdAt": "2025-06-11T18:10:16.623Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "category": "Alimentação",
+      "type": "outcome",
+      "price": 40,
+      "createdAt": "2025-06-11T18:02:18.623Z"
+    },
+    {
+      "id": 3,
+      "description": "Taligado",
+      "category": "Taligado",
+      "type": "outcome",
+      "price": 2450,
+      "createdAt": "2025-06-12T19:16:27.623Z"
+    },
+    {
+      "id": 4,
+      "description": "Boneco do Goku",
+      "category": "Necessidade",
+      "type": "outcome",
+      "price": 1300,
+      "createdAt": "2025-06-15T10:10:38.623Z"
+    },
+    {
+      "description": "nao sei",
+      "price": 999,
+      "category": "nao sei",
+      "type": "income",
+      "createdAt": "2025-06-19T18:49:46.036Z",
+      "id": 5
+    },
+    {
+      "description": "achei no chão",
+      "price": 1000,
+      "category": "sorte",
+      "type": "income",
+      "createdAt": "2025-06-21T01:36:18.186Z",
+      "id": 6
+    }
+  ]
+}
